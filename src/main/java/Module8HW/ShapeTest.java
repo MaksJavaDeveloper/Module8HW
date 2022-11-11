@@ -2,16 +2,17 @@ package Module8HW;
 
 public class ShapeTest {
     public static void main(String[] args) {
+
         Shape circle = new Circle();
-        circle.getName();
+        System.out.println("This shape is " + circle.getName());
         Shape cube = new Cube();
-        cube.getName();
+        System.out.println("This shape is " + cube.getName());
         Shape cylinder = new Cylinder();
-        cylinder.getName();
+        System.out.println("This shape is " + cylinder.getName());
         Shape oval = new Oval();
-        oval.getName();
+        System.out.println("This shape is " + oval.getName());
         Shape quad = new Quad();
-        quad.getName();
+        System.out.println("This shape is " + quad.getName());
 
     }
 }

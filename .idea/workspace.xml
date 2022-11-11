@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db099e5f-37c9-47aa-9c0f-b2e9f8e7173f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Module8HW/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Module8HW/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Module8HW/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Module8HW/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Module8HW/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Module8HW/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Module8HW/Oval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Module8HW/Oval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Module8HW/Quad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Module8HW/Quad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Module8HW/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Module8HW/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Module8HW/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Module8HW/ShapeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
